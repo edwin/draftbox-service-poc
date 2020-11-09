@@ -1,0 +1,8 @@
+com\rumahbangsa\draftbox\handler\ApplicationExceptionHandler.class
+com\rumahbangsa\draftbox\controller\DataController.class
+com\rumahbangsa\draftbox\ApplicationCli.class
+com\rumahbangsa\draftbox\Application.class
+com\rumahbangsa\draftbox\Ping.class
+com\rumahbangsa\draftbox\service\MetaService.class
+META-INF\panache-archive.marker
+com\rumahbangsa\draftbox\model\Metadata.class
